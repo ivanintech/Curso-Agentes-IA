@@ -1,0 +1,22 @@
+{
+  "mcpServers": {
+    "search-images": {
+      "command": "uv",
+      "args": [
+        "--directory",
+        "C:\\Users\\ivanc\\Documents\\CursoAgentes\\google-image-search-mcp-python",
+        "run",
+        "main.py"
+      ]
+    },
+    "playwright": {
+      "command": "npx",
+      "args": ["-y", "@executeautomation/playwright-mcp-server"]
+    }
+  }
+}
+
+
+
+
+
