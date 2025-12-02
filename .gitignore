@@ -66,3 +66,9 @@ papers/
 *.key
 secrets/
 
+# Large video files (too big for GitHub)
+*.mp4
+*.mov
+*.avi
+*.mkv
+
